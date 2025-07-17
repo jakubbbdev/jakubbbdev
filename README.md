@@ -8,9 +8,13 @@
 
 ---
 
-## Projects
-- ogcraft.eu – German Minigame Server: [https://ogcraft.eu](https://ogcraft.eu)
-- Studios of Quality: [studiosofquality.com](studiosofquality.com)
+  ## Projects
+
+  | Name                | Description                        | Link                        |
+  |---------------------|------------------------------------|-----------------------------|
+  | ogcraft.eu          | German Minigame Server             | [ogcraft.eu](https://ogcraft.eu) |
+  | Studios of Quality  | Creative digital agency            | [studiosofquality.com](https://studiosofquality.com) |
+  | github-analyzer     | Stylish GitHub profile analyzer    | [Repo](https://github.com/jakubbbdev/github-analyzer) |
 
 ---
 
