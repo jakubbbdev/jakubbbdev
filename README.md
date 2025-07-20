@@ -68,7 +68,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profilansichten-33-blue)
 
@@ -87,10 +87,10 @@
 **Ich bin eine Nachteule 🦉** 
 
 ```text
-🌞 Morgens                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-🌆 Mittags                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-🌃 Abends                 174 commits         ██████████████████░░░░░░░   73.11 % 
-🌙 Nachts                 45 commits          █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+🌞 Morgens                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+🌆 Mittags                10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+🌃 Abends                 174 commits         ██████████████████░░░░░░░   72.20 % 
+🌙 Nachts                 48 commits          █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
 ```
 
 
@@ -129,6 +129,12 @@ Assembly                 1 repo              ██░░░░░░░░░�
 ```
 
 
- Last Updated on 20/07/2025 22:33:23 UTC
+
+**Zeitleiste**
+
+![Lines of Code chart](https://raw.githubusercontent.com/jakubbbdev/jakubbbdev/main/assets/bar_graph.png)
+
+
+ Last Updated on 20/07/2025 22:39:33 UTC
 <!--END_SECTION:waka-->
 
