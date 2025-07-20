@@ -48,8 +48,3 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
-### 🔧 Tech & Tools
-<a href="https://github.com/jakubbbdev/" align="left">
-  <img align="center" src="https://fancy-readme-stats.vercel.app/api/wakatime?username=jakubbbdev&theme=blue_navy&show_icons=true&layout=compact&update=7&dark_bg=3" />
-</a>
