@@ -49,6 +49,7 @@
 <!--END_SECTION:waka-->
 
 
-## Coding Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jakubbbdev&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🔧 Tech & Tools
+<a href="https://github.com/BlackDevCoding/" align="left">
+  <img align="center" src="https://fancy-readme-stats.vercel.app/api/wakatime?username=BlackDevReal&theme=blue_navy&show_icons=true&layout=compact&update=7&dark_bg=3" />
+</a>
