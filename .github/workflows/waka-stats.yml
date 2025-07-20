@@ -22,4 +22,4 @@ jobs:
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           SHOW_SHORT_INFO: "True"
-          LOCALE: "de" 
+          LOCALE: "en" 
