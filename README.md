@@ -45,6 +45,10 @@
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## Coding Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jakubbbdev&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
