@@ -41,7 +41,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-175-blue)
 
@@ -53,7 +53,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -103,6 +103,6 @@ Assembly                 1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2025 21:38:11 UTC
+ Last Updated on 25/07/2025 22:48:56 UTC
 <!--END_SECTION:waka-->
 
