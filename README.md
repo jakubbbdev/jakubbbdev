@@ -130,48 +130,61 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-183-blue)
+![Profile Views](http://img.shields.io/badge/Profilansichten-183-blue)
 
-**🐱 My GitHub Data** 
+![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-90.1%20thousand%20Codezeilen-blue)
 
-> 📦 3.9 kB Used in GitHub's Storage 
+**🐱 Meine GitHub-Daten** 
+
+> 📦 3.9 kB im GitHub's Speicher verwendet 
  > 
-> 🏆 193 Contributions in the Year 2025
+> 🏆 193 Beiträge im Jahr 2025
  > 
-> 🚫 Not Opted to Hire
+> 🚫 Sucht nicht nach Auftragsarbeiten
  > 
-> 📜 18 Public Repositories 
+> 📜 18 öffentliche Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 3 private Repositories 
  > 
-**I'm a Night 🦉** 
+**Ich bin eine Nachteule 🦉** 
 
 ```text
-🌞 Morning                29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-🌆 Daytime                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-🌃 Evening                185 commits         ████████████████░░░░░░░░░   64.01 % 
-🌙 Night                  60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+🌞 Morgens                29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+🌆 Mittags                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+🌃 Abends                 189 commits         ████████████████░░░░░░░░░   64.51 % 
+🌙 Nachts                 60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+```
+📅 **Ich bin am Sonntag am produktivsten** 
+
+```text
+Montag                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Dienstag                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Mittwoch                 32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Donnerstag               71 commits          ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Freitag                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Samstag                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Sonntag                  91 commits          ████████░░░░░░░░░░░░░░░░░   31.06 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Diese Woche habe ich meine Zeit damit verbracht** 
 
 ```text
-💬 Programming Languages: 
+💬 Programmiersprachen: 
 TypeScript               1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
 YAML                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 Go                       58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
 TOML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 
-🔥 Editors: 
+🔥 Editoren: 
 Cursor                   6 hrs 23 mins       ██████████████████████░░░   89.56 % 
 IntelliJ IDEA            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 VS Code                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
-🐱‍💻 Projects: 
+🐱‍💻 Projekte: 
 go-logging               1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
 github-rusty             1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
 portolio                 1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
@@ -179,7 +192,7 @@ go-license               44 mins             ███░░░░░░░░�
 rust-benchmarks          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 ```
 
-**I Mostly Code in Java** 
+**Ich code am meisten in Java** 
 
 ```text
 Java                     6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
@@ -191,7 +204,11 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
+**Zeitleiste**
 
- Last Updated on 28/07/2025 17:47:39 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/jakubbbdev/jakubbbdev/main/assets/bar_graph.png)
+
+
+ Last Updated on 28/07/2025 18:50:55 UTC
 <!--END_SECTION:waka-->
 
