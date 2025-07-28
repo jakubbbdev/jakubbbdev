@@ -19,9 +19,7 @@
 
 ---
 
-<div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=jakubbbdev&margin-w=15&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=jakubbbdev&margin-w=15&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
