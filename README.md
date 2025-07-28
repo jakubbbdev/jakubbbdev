@@ -130,42 +130,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profilansichten-183-blue)
-
-![Lines of code](https://img.shields.io/badge/Seit%20Hallo%20Welt%20habe%20ich%20geschrieben-90.1%20thousand%20Codezeilen-blue)
-
-**🐱 Meine GitHub-Daten** 
-
-> 📦 3.9 kB im GitHub's Speicher verwendet 
- > 
-> 🏆 193 Beiträge im Jahr 2025
- > 
-> 🚫 Sucht nicht nach Auftragsarbeiten
- > 
-> 📜 18 öffentliche Repositories 
- > 
-> 🔑 3 private Repositories 
- > 
 **Ich bin eine Nachteule 🦉** 
 
 ```text
-🌞 Morgens                29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-🌆 Mittags                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-🌃 Abends                 189 commits         ████████████████░░░░░░░░░   64.51 % 
-🌙 Nachts                 60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-```
-📅 **Ich bin am Sonntag am produktivsten** 
-
-```text
-Montag                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Dienstag                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Mittwoch                 32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Donnerstag               71 commits          ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Freitag                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Samstag                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Sonntag                  91 commits          ████████░░░░░░░░░░░░░░░░░   31.06 % 
+🌞 Morgens                29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+🌆 Mittags                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+🌃 Abends                 191 commits         ████████████████░░░░░░░░░   64.75 % 
+🌙 Nachts                 60 commits          █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
 ```
 
 
@@ -204,11 +175,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
-**Zeitleiste**
 
-![Lines of Code chart](https://raw.githubusercontent.com/jakubbbdev/jakubbbdev/main/assets/bar_graph.png)
-
-
- Last Updated on 28/07/2025 18:50:55 UTC
+ Last Updated on 28/07/2025 18:53:56 UTC
 <!--END_SECTION:waka-->
 
