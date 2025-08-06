@@ -7,9 +7,10 @@
 
 <p align="center">
   <a href="https://github.com/polocloud">
-    <img src="https://img.shields.io/badge/Contributor-Polocloud-blueviolet?style=for-the-badge&logo=github" alt="Polocloud Contributor"/>
+    <img src="https://img.shields.io/badge/Contributor-Polocloud-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Polocloud Contributor"/>
   </a>
 </p>
+
 
 <div align="center">
   <a href="https://github.com/jakubbbdev">
