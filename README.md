@@ -5,6 +5,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Open+Source+Enthusiast;Frontend+%7C+Backend+%7C+DevOps;Always+Learning+%26+Building" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/polocloud">
+    <img src="https://img.shields.io/badge/Contributor-Polocloud-blueviolet?style=for-the-badge&logo=github" alt="Polocloud Contributor"/>
+  </a>
+</p>
+
 <div align="center">
   <a href="https://github.com/jakubbbdev">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
