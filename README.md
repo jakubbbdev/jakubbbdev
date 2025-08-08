@@ -91,8 +91,3 @@
 
 ---
 
-## 📈 GitHub Commit Activity
-
-<p align="center">
-  <img src="https://github-contributions-api.jakubbn.vercel.app/api?username=jakubbbdev&theme=github-dark&hideTitle=true" alt="GitHub Commit Activity" />
-</p>
