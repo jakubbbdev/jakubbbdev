@@ -12,13 +12,13 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/jakubbbdev">
+  <a href="https://github.com/jakubbbdev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/jakubbbdev">
+  <a href="https://linkedin.com/in/jakubbbdev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:business@jakubbbdev.de">
+  <a href="mailto:business@jakubbbdev.de" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -91,48 +91,8 @@
 
 ---
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+## 📈 GitHub Commit Activity
 
-```text
-🌞 Morning                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-🌆 Daytime                150 commits         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-🌃 Evening                330 commits         ████████████░░░░░░░░░░░░░   49.77 % 
-🌙 Night                  152 commits         ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               33 hrs 6 mins       ██████████████░░░░░░░░░░░   57.29 % 
-Kotlin                   6 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Java                     3 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-JSON                     2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Bash                     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-
-🐱‍💻 Projects: 
-polocloud                39 hrs 37 mins      █████████████████░░░░░░░░   68.57 % 
-polocloud-discordbot     6 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-discord                  3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-polocloud-flowers        2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-discord-translate        1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-```
-
-**I Mostly Code in Java** 
-
-```text
-Java                     7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-```
-
-
-
-
- Last Updated on 08/08/2025 18:30:12 UTC
-<!--END_SECTION:waka-->
-
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=jakubbbdev&theme=github" alt="GitHub Commit Activity Graph" />
+</p>
