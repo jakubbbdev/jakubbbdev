@@ -94,5 +94,5 @@
 ## 📈 GitHub Commit Activity
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jakubbbdev&theme=github" alt="GitHub Commit Activity Graph" />
+  <img src="https://github-contributions-api.jakubbn.vercel.app/api?username=jakubbbdev&theme=github-dark&hideTitle=true" alt="GitHub Commit Activity" />
 </p>
