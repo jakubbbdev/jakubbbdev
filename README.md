@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/HttpMarco/polocloud">
-    <img src="https://img.shields.io/badge/Contributor-Polocloud-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Polocloud Contributor"/>
+    <img src="https://img.shields.io/badge/Developer-Polocloud-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Polocloud Developer"/>
   </a>
 </p>
 
