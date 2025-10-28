@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=800&center=true&vCenter=true&width=300&lines=Open+Source+Enthusiast;Full+Stack+Developer;Always+Learning" />
 </p>
 
-
 <p align="center">
   <a href="https://github.com/HttpMarco/polocloud">
     <img src="https://img.shields.io/badge/Developer-Polocloud-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Polocloud Developer"/>
@@ -19,6 +18,7 @@
 ---
 
 ### 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
@@ -29,6 +29,7 @@
 </p>
 
 <p align="center">
+
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tauri-0A1014?style=flat&logo=tauri&logoColor=white" />
@@ -42,9 +43,16 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
 </p>
 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jakubbbdev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakubbbdev&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
