@@ -1,9 +1,10 @@
-<h1 align="center">Welcome to jakubbbdev's GitHub</h1>
-<h3 align="center">Full Stack Developer | Systems & Infrastructure Enthusiast</h3>
+<h2 align="center">👋 Hey, I'm Jakub</h2>
+<h4 align="center">Full Stack Developer · Systems & Infrastructure Enthusiast</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Open+Source+Enthusiast;Frontend+%7C+Backend+%7C+DevOps;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=800&center=true&vCenter=true&width=300&lines=Open+Source+Enthusiast;Full+Stack+Developer;Always+Learning" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/HttpMarco/polocloud">
