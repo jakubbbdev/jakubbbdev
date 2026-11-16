@@ -1,17 +1,27 @@
 # 👋 Hey, I'm Jakub
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&center=true&vCenter=true&width=420&lines=Full+Stack+Developer;Open+Source+Enthusiast;Microservices+%26+CLI+Tools;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;Backends+%26+Distributed+Systems;NATS+%C2%B7+Redis+%C2%B7+Databases;Rust+%C2%B7+Kotlin+%C2%B7+Go+%C2%B7+Java" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Köln</strong> · Building stuff with Java, Kotlin, Go & TypeScript
+  <strong>Köln</strong> · Full-stack developer, mostly building backends with Rust, Kotlin, Go & Java
 </p>
 
 <p align="center">
-  <a href="https://github.com/HttpMarco/polocloud"><img src="https://img.shields.io/badge/Developer-Polocloud-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Polocloud"/></a>
-  <a href="https://github.com/HttpMarco/polocloud"><img src="https://img.shields.io/badge/Developer-NRC-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="NoRiskk Client"/></a>
+  <a href="https://norisk.gg"><img src="https://img.shields.io/badge/Developer-NoRisk_Client-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="NoRisk Client" /></a>
+  <!-- TODO: Link für Sniffa Studio eintragen -->
+  <a href="#"><img src="https://img.shields.io/badge/Developer-Sniffa_Studio-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Sniffa Studio" /></a>
 </p>
+
+---
+
+### 🧑‍💻 About me
+
+- 🔭 Currently working on **NoRisk Client** and **Sniffa Studio**
+- ⚙️ Building full-stack apps: services talking over **NATS**, caching with **Redis**, backed by all kinds of databases
+- ❤️ Favorite languages: **Rust**, **Kotlin**, **Go** & **Java**
+- 🌱 Always learning something new
 
 ---
 
@@ -20,15 +30,15 @@
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
@@ -46,12 +56,13 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white" alt="Maven" />
 </p>
 
-**Databases & message queues**
+**Databases & messaging**
 
 <p>
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" alt="NATS" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white" alt="Cassandra" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
@@ -76,11 +87,19 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakubbbdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jakubbbdev&margin-w=15&theme=darkhub&no-bg=true&no-frame=true" alt="Trophy" />
+  <img src="https://streak-stats.demolab.com?user=jakubbbdev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+    <img src="./profile/snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
 ---
