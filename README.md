@@ -87,8 +87,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
-  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
+  <img height="165" src="https://raw.githubusercontent.com/jakubbbdev/jakubbbdev/HEAD/profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="https://raw.githubusercontent.com/jakubbbdev/jakubbbdev/HEAD/profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -97,8 +97,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
-    <img src="./profile/snake.svg" alt="Contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jakubbbdev/jakubbbdev/HEAD/profile/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/jakubbbdev/jakubbbdev/HEAD/profile/snake.svg" alt="Contribution snake" />
   </picture>
 </p>
 
